@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Products {
+  display: grid;
+  grid-template-columns: 400px 400px;
+}
+
+.garage-container{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+
+.FormContainer label {
+  display: block;
+}
